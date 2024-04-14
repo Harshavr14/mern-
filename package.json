@@ -1,0 +1,15 @@
+{
+  "name": "health-tracker",
+  "version": "1.0.0",
+  "description": "Health tracker web application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.3",
+    "nodemon": "^3.1.0"
+  }
+}
